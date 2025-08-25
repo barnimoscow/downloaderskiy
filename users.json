@@ -1,0 +1,9 @@
+{
+  "allowed_serials": ["ABC123-XYZ789-123456"],
+  "users": {
+    "user1": {
+      "hash": "$2b$12$ZVkPj9hZz8...",
+      "serial": "ABC123-XYZ789-123456"
+    }
+  }
+}
