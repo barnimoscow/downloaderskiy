@@ -1,9 +1,17 @@
 {
-  "allowed_serials": ["ABC123-XYZ789-123456"],
+  "version": 1,
   "users": {
-    "user1": {
-      "hash": "$2b$12$ZVkPj9hZz8...",
-      "serial": "ABC123-XYZ789-123456"
+    "alice": {
+      "allowed_serials": [
+        "4C4C4544-0034-5510-8034-6C3C12345678"
+      ],
+      "notes": "Тестовый пользователь"
+    },
+    "bob": {
+      "allowed_serials": [
+        "MAC-001122334455"
+      ],
+      "expires_at": "2026-12-31"
     }
   }
 }
