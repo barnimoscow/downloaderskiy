@@ -21,6 +21,13 @@
       "notes": "ОбычныйЧел",
       "expires_at": "2025-08-266",
       "role": "user"
+    },
+    "User123": {
+      "allowed_serials": [
+        "C06A2599-C284-DA19-AB90-345A60408D6D"
+      ],
+      "notes": "TestAdminVadim",
+      "role": "user"
     }
   }
 }
