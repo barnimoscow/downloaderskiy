@@ -13,6 +13,14 @@
         "MAC-001122334455"
       ],
       "expires_at": "2026-12-31"
+    },
+    "vadick": {
+      "allowed_serials": [
+        "5534590-asldlf-asldl"
+      ],
+      "notes": "ОбычныйЧел",
+      "expires_at": "2025-08-266",
+      "role": "user"
     }
   }
 }
