@@ -35,6 +35,13 @@
       ],
       "notes": "pro Test",
       "role": "user"
+    },
+    "propro2": {
+      "allowed_serials": [
+        "C06A2599-C284-DA19-AB90-345A60408D6D"
+      ],
+      "notes": "PRO2TEST",
+      "role": "pro"
     }
   }
 }
