@@ -28,13 +28,6 @@
       ],
       "notes": "TestAdminVadim",
       "role": "user"
-    },
-    "propro": {
-      "allowed_serials": [
-        "C06A2599-C284-DA19-AB90-345A60408D6D"
-      ],
-      "notes": "pro Test",
-      "role": "user"
     }
   }
 }
