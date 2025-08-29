@@ -42,6 +42,13 @@
       ],
       "notes": "PRO2TEST",
       "role": "pro"
+    },
+    "User-00080009": {
+      "allowed_serials": [
+        "03C00218-044D-0555-B006-5D0700080009"
+      ],
+      "role": "user",
+      "notes": "auto-created 2025-08-29T12:58:08.904738Z from app"
     }
   }
 }
