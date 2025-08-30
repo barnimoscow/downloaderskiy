@@ -49,6 +49,13 @@
       ],
       "role": "user",
       "notes": "auto-created 2025-08-29T12:58:08.904738Z from app"
+    },
+    "User-DCE8565F": {
+      "allowed_serials": [
+        "MAC-2C56DCE8565F"
+      ],
+      "role": "user",
+      "notes": "auto-created 2025-08-30T11:11:07.000219Z from app"
     }
   }
 }
