@@ -56,6 +56,13 @@
       ],
       "role": "user",
       "notes": "auto-created 2025-08-30T11:11:07.000219Z from app"
+    },
+    "User-11A8DD60": {
+      "allowed_serials": [
+        "MAC-BC2411A8DD60"
+      ],
+      "role": "user",
+      "notes": "auto-created 2025-08-30T12:26:40.651695Z from app"
     }
   }
 }
